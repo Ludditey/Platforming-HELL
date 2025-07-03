@@ -1,0 +1,1 @@
+draw_button(100,100,200,150,!mouse_check_button(mb_left))
